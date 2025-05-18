@@ -84,34 +84,7 @@ end)
   </table>
 </div>
 
-## <span style="color:#00ff9d;">💼 Proyectos Destacados</span>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Sistema de Bandas y facciones delictivas</h3>
-      <p>Personalización de entronos pvp, menus y acciones  .</p>
-      <p><strong>Tecnologías:</strong> Lua, JavaScript, MySQL, ESX Framework</p>
-    </td>
-    <td width="50%">
-      <h3>Sistema de Policía</h3>
-      <p>MDT personalizado, sistema de multas, cárceles, gestión de evidencias y comunicaciones seguras.</p>
-      <p><strong>Tecnologías:</strong> Lua, React, Node.js, QBCore</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Framework de Roleplay Médico</h3>
-      <p>Sistema completo de salud, heridas persistentes, tratamientos y gestión hospitalaria.</p>
-      <p><strong>Tecnologías:</strong> Lua, HTML/CSS, JavaScript, vRP Framework</p>
-    </td>
-    <td width="50%">
-      <h3>Sistema Avanzado de Economía</h3>
-      <p>Sistema completo con trabajos dinámicos, empresas gestionables, mercado de valores y sistema bancario.</p>
-      <p><strong>Tecnologías:</strong> Lua, JavaScript, MySQL, UI avanzado</p>
-    </td>
-  </tr>
-</table>
 
 ## <span style="color:#00ff9d;">📫 Contacto</span>
 
